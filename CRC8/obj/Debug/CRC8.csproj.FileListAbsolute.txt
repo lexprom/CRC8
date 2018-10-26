@@ -1,0 +1,7 @@
+C:\Users\pak\source\repos\CRC8\CRC8\bin\Debug\CRC8.exe.config
+C:\Users\pak\source\repos\CRC8\CRC8\bin\Debug\CRC8.exe
+C:\Users\pak\source\repos\CRC8\CRC8\bin\Debug\CRC8.pdb
+C:\Users\pak\source\repos\CRC8\CRC8\obj\Debug\CRC8.csprojResolveAssemblyReference.cache
+C:\Users\pak\source\repos\CRC8\CRC8\obj\Debug\CRC8.csproj.CoreCompileInputs.cache
+C:\Users\pak\source\repos\CRC8\CRC8\obj\Debug\CRC8.exe
+C:\Users\pak\source\repos\CRC8\CRC8\obj\Debug\CRC8.pdb
